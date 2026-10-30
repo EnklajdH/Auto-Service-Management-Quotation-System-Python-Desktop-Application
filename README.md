@@ -1,4 +1,3 @@
-Nëse dëshironi skedarin e plotë **README.md** të gatshëm, ku thjesht duhet ta kopjoni dhe ta ngjitni në skedarin tuaj `README.md` në kompjuter, ja ku e keni të plotë dhe të përditësuar me imazhet dhe specifikimet tuaja:
 
 ```markdown
 # Auto Service Management & Quotation System
