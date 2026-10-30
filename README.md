@@ -28,3 +28,9 @@ A robust Python desktop application designed specifically for automotive repair 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/EnklajdH/Auto-Service-Management-Quotation-System-Python-Desktop-Application.git](https://github.com/EnklajdH/Auto-Service-Management-Quotation-System-Python-Desktop-Application.git)
+
+## 📸 Screenshots
+
+| Pamja e Kryesore (Dashboard) | Seksioni i Kuotimeve & Pjesëve |
+| :---: | :---: |
+| ![Dashboard](screenshots/dashboard.png) | ![Quotations](screenshots/quotation.png) |
